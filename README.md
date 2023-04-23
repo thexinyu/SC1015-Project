@@ -12,7 +12,10 @@ We cleaned the data and encoded the data using one-hot encoding and label encodi
 INDIVIDUAL CONTRIBUTION
 
 Yuezhu Lang - Data Exploration and Cleaning
+Yuezhu primarily contributed to the first half of the project. She went through the data and created exploratory visualizations and other analysis methods for each variable. She also cleaned the data of any null values and outliers.
+
 Xinyu Wu - Model Training and Tuning
+Xinyu worked primarily on the machine learning portion of the project. For the second half of the Jupyter Notebook, she worked on encoding the data and then training both the base machine learning models and also implementing the SMOTE resampling and retraining the models using that data.
 
 
 REFERENCES
