@@ -1,5 +1,7 @@
 # Fraud Prediction from Credit Card Data
 
+Data Files: https://entuedu-my.sharepoint.com/:f:/g/personal/n2203082b_e_ntu_edu_sg/EvbAYvY8kQRBpxJclbmSEEEBebQZspKpv6iyP5o6ujo0Qw?e=IPjfJU
+
 ABOUT THE DATASET 
 
 With the rising credit card fraud cases in recent years, it is important for us to understand more about credit fraud, combat identity fraud and stop fraudulent transactions. This project is a credit card fraudulent detector/predictor using a simulated credit card transactions dataset from GitHub for the duration of Jan 1st 2019 to Dec 31 2020. It covers information of credit cards of more than 1000 customers doing transactions with a pool of 800 merchants. The key objective of this detection system is to identify and predict the factors that cause suspicious events in the future using train and test datasets. 
